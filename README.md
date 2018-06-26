@@ -1,2 +1,2 @@
 # shitty-one
-just shuffling
+just shuffling but not only
